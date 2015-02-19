@@ -1,6 +1,6 @@
-# Ember-cli-mock-socket
+# ember-cli-mock-socket
 
-This README outlines the details of collaborating on this Ember addon.
+Wrapper around https://github.com/thoov/mock-socket for ember-cli.
 
 ## Installation
 

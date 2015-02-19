@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-mock-socket",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.0.1",
+  "description": "mock-socket library addon for ember-cli",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -35,7 +35,9 @@
     "glob": "^4.0.5"
   },
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "testing",
+    "websockets"
   ],
   "ember-addon": {
     "configPath": "tests/dummy/config"
